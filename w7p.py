@@ -1,6 +1,6 @@
 print ("Jenny")
-print ("Student")
-name - ("My courses", "Python", "Java", "C++")
+print ("Student ID: 247480103B002")
+name - ("My courses", "Python", "Java", "C++", "VS Code")
 print ("My courses")
 print ("Python")
 print ("Java")
