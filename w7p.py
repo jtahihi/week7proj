@@ -1,3 +1,7 @@
 print ("Jenny")
 print ("Student")
 name - ("My courses", "Python", "Java", "C++")
+print ("My courses")
+print ("Python")
+print ("Java")
+print ("C++")
